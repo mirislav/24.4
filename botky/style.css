@@ -1,0 +1,24 @@
+.nav {
+    text-decoration-color: black;
+}
+
+.btn-primary {
+    background-color: #cc9900;
+    border-color: #cc9900;
+  }
+  
+  .btn-primary:hover {
+    background-color: #e6b800;
+    border-color: #e6b800;
+  }  
+
+.card {
+    display: block;
+    height: 200px;
+    width: 300px;
+    margin-bottom: 50px;
+}
+
+footer {
+  margin-bottom: -20px;
+}
